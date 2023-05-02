@@ -112,7 +112,7 @@
     "**/*.less": "stylelint --syntax less"
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=18.x"
   },
   "browserslist": [
     "> 1%",
